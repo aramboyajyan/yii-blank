@@ -1,6 +1,6 @@
 # Blank Yii project
 
-Blank project files necessary for building [Yii](http://www.yiiframework.com) applications.
+Blank project files necessary for building [Yii](http://www.yiiframework.com) (v1.x) applications.
 
 Use this when you want to start from scratch and define everything else yourself (very specific projects, building APIs etc.).
 
